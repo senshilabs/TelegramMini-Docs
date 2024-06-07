@@ -32,6 +32,4 @@ TelegramMini is SocialFi
 ## Bunch of Codes
 FrontEnd : https://github.com/senshilabs/tweb
 
-Backend : https://github.com/senshilabs/telegram-mini-infra
-
 Contract(Tact) : https://github.com/senshilabs/telegram-mini-contract
