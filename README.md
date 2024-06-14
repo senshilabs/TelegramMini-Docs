@@ -27,7 +27,8 @@ TelegramMini is SocialFi
 
 <img src="https://github.com/senshilabs/TelegramMini-Docs/assets/10257454/80527134-48b7-4fed-8fd6-60a981ba1561" alt="newera" width="500">
 
-
+## Architecture
+<img src="https://github.com/senshilabs/TelegramMini-Docs/assets/10257454/acd37356-d72f-400a-ab58-e5eb519e2cf5" alt="newera" width="500">
 
 ## Bunch of Codes
 FrontEnd : https://github.com/senshilabs/tweb
